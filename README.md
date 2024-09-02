@@ -1,5 +1,5 @@
 # 📸 WebSite Camera
-Este projeto é um site basico com interatividade de butões.
+Este projeto é um site basico com interatividade de botões.
 
 ## 🎥 Demonstração
 Você pode acessar a demonstração do projeto aqui.
